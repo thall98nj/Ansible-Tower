@@ -20,5 +20,5 @@
 
   - name: Show website address
     debug:
-       msg: "http://{{ ansible_host1 }}"
+       msg: "http://{{ ansible_host }}"
        
